@@ -16,5 +16,5 @@
 <hr>
 <details>
 <summary><h3>setup.bat code</h3></summary>
-<img src="https://i.imgur.com/dNjkuhg.png">
+<img src="https://i.imgur.com/6iJuyVm.png">
 </details>
