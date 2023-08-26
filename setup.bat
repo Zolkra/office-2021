@@ -7,7 +7,7 @@ cls
 
 @echo off
 
-.\setup\setup.exe /configure .\configuration-Office2021Enterprise.xml
+.\setup\setup.exe /configure .\setup\configuration-Office2021Enterprise.xml
 
 cls
 
